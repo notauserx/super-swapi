@@ -1,4 +1,4 @@
-﻿namespace Entities;
+﻿namespace Swapi.Schema;
 
 public class Species
 {

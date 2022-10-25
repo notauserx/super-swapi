@@ -1,6 +1,6 @@
-﻿namespace Entities;
+﻿namespace Swapi.Schema;
 
-public class People
+public class Person
 {
     public string Name { get; set; }
 

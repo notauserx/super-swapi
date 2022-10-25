@@ -2,6 +2,8 @@
 
 public class People
 {
+    public Guid Id { get; set; }
+
     public string Name { get; set; }
 
     public string BirthYear { get; set; }
