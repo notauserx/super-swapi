@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super-swapi", "super-swapi\super-swapi.csproj", "{260A2755-82AC-434F-8602-D99C4E99FD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260A2755-82AC-434F-8602-D99C4E99FD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260A2755-82AC-434F-8602-D99C4E99FD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260A2755-82AC-434F-8602-D99C4E99FD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260A2755-82AC-434F-8602-D99C4E99FD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC3C016-6708-4179-AFFF-FFEDE946B2CF}
+	EndGlobalSection
+EndGlobal
